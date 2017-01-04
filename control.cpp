@@ -1,5 +1,6 @@
 control
 <<<<<<< HEAD
+<<<<<<< HEAD
 control stuff
 
 =======
@@ -9,3 +10,6 @@ fixes made on development track
 my own local fixes
 >>>>>>> developmentTesting
 >>>>>>> development
+=======
+fixing fixing
+>>>>>>> spr
